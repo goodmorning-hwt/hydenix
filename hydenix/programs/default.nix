@@ -11,7 +11,7 @@
     home-manager.enable = true;
     neovim = {
       enable = true;
-      defaultEditor = true;
+      defaultEditor = false;
     };
     zsh.enable = true;
     nix-index.enable = true;
