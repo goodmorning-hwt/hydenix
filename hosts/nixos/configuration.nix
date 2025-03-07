@@ -198,4 +198,6 @@ in
 
   # ===== System Version =====
   system.stateVersion = "24.11"; # Don't change this
+
+  home-manager.backupFileExtension = "backup";
 }
